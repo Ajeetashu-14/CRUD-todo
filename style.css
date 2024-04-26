@@ -1,0 +1,14 @@
+#list{
+    list-style: none;
+    padding: 0%;
+}
+.page{
+    background-color: antiquewhite;
+}
+#task-title{
+    width: 95%;
+}
+.List{
+    display: flex;
+    justify-content: space-between;
+}
